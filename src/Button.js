@@ -1,8 +1,8 @@
 import React from 'react';
 import FlatButton from 'material-ui/FlatButton';
 
-const SimpleFlatButton = () => (
-    <FlatButton label="jemz.org" secondary={true} />
+const SimpleFlatButton = (Props) => (
+    <FlatButton label={Props.Title} primary={true} />
 )
 
 export default SimpleFlatButton;
