@@ -25,7 +25,7 @@ class App extends Component {
             <Avatar />
             <br/>
             <br/>
-            <p className="Paragraph">Hi I'm James Abtahi and one thing
+            <p className="Paragraph">Hi, I'm James Abtahi and one thing
               you should know about me is that I dream about machines that can
               think and feel.
             </p>
