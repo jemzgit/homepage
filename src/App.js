@@ -70,7 +70,7 @@ class App extends Component {
             <FlatButton Title="Web Development"/>
             <br/>
             <a href="./func"> Functional Programming</a>
-            <a href="./webpack">Webpack Essentials </a>
+            <a href="./webpack">Webpack 2.0 Essentials </a>
           </Box>
           <Box align='center'
             pad='medium'
