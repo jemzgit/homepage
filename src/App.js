@@ -27,7 +27,7 @@ class App extends Component {
             <br/>
             <p className="Paragraph">Hi, I'm James Abtahi and one thing
               you should know about me is that I dream about machines that can
-              think and feel.
+              think and feel. Hope you find this page useful.
             </p>
 
         <GrApp>
